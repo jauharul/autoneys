@@ -1,12 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to Autoneys
 
-You can use the [editor on GitHub](https://github.com/jauharul/autoneys/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Disini merupakan koleksi dari segenap script yang pernah saya buat ketika menemukan masalah yang dapat diselesaikan dengan serangkaian langkah sederhana. Untuk sederhananya, tampilan awal dari template ini saya pertahankan agar mudah dalam editing dan dokumentasi dalam format Markdown. Dokumentasi ini dapat diakses melalui https://jauharul.github.io/autoneys/
 
 ### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block

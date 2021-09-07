@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title:  "Mengunduh Murottal"
 theme: jekyll-theme-cayman
 ---
